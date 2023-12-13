@@ -1,1 +1,15 @@
+package Tarea1;
+
+/**
+ *
+ * @author Hp
+ */
+public class Tarea1 {
+
+    public static void main(String[] args) {
+        Persona personal-new Persona(nombre:"Juan"),apellido:"Quinteros",edad:"21";
+        Personal.setID(x:1750253617);
+        System.out.println(personal.getID{});
+    }
+}
 
