@@ -1,0 +1,11 @@
+package  clase.Ejercicio1;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Persona p1-new Persona(nombre: "Juan",apellido: "Quinteros",edad: 21);
+        p1.setCedula(id:"1750253617");
+        System.out.println(p1);
+        System.out.println("Numero cedula: " + p1.getId());
+    }
+}
